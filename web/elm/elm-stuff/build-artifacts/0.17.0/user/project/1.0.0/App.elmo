@@ -1,0 +1,3 @@
+var _user$project$App$main = {
+	main: _elm_lang$html$Html$text('Elm is in the house!')
+};

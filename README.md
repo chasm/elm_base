@@ -113,4 +113,11 @@
     },
     ```
 
-    You may need to restart the server, but it should now display the "Elm is in the house!" message at [http://localhost:4000/](http://localhost:4000/). There's your base Phoenix app with Elm. Note that if we change the `App.elm` file, we see the changes pretty much instantly in the browser. (s2)
+Now `cd` back to the project root. Restart the server if necessary. If you point your browser to [http://localhost:4000/](http://localhost:4000/), you should see "Elm is in the house".
+
+```sh
+cd ../../
+mix phoenix.server
+```
+
+There's your base Phoenix app with Elm. Note that if we change the `App.elm` file, we see the changes pretty much instantly in the browser. (s2)
