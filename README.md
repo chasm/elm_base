@@ -1,5 +1,7 @@
 # ElmBase
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chasm/elm_base.svg)](https://greenkeeper.io/)
+
 1. Create the git repo and clone it, then `cd` into the folder.
 
 2. Create the Phoenix app:
